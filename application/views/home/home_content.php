@@ -1,0 +1,8 @@
+<div class="text-center m-t-lg">
+    <h1>
+        Welcome in INSPINIA Static SeedProject
+    </h1>
+    <small>
+        It is an application skeleton for a typical web app. You can use it to quickly bootstrap your webapp projects and dev environment for these projects.
+    </small>
+</div>

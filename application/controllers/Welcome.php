@@ -20,6 +20,6 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('newcastlepools/template_main');
+		$this->load->view('template/template_main');
 	}
 }
